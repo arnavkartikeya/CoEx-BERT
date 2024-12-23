@@ -1,0 +1,267 @@
+layer,neuron,formula,iou
+0,0,((((free OR open) OR support) OR song) OR web),0.20731707317071224
+0,1,((((on OR in) OR but) OR see) OR list),0.21411332030800811
+0,2,((((day OR good) OR well) OR great) OR new),0.17410615145458197
+0,3,((((think OR thought) OR pretty) OR f) OR sort),0.248756218905452
+0,4,((((i OR my) OR be) OR good) OR me),0.5049334377447102
+0,5,all,3.243087419223101e-05
+0,6,((((. OR i) OR the) OR !) OR it),0.2737210813253859
+0,7,(((' OR would) OR will) OR &),0.6631788739411727
+0,8,show,0.0012898140518075288
+0,9,((((i OR in) OR so) OR do) OR no),0.5131889949891225
+0,10,.,0.013258167914517631
+0,11,(. OR i),0.044049100804111424
+0,12,((((to OR the) OR a) OR of) OR for),0.10067311582741739
+0,13,((i OR at) OR then),0.1611839172684304
+0,14,i,0.0013845237221324054
+0,15,((((2 OR 3) OR 5) OR could) OR 1),0.13761467889907897
+0,16,((((need OR going) OR way) OR day) OR miss),0.09750765194577908
+0,17,no,0.8230088495572794
+0,18,((((except OR living) OR finish) OR breakfast) OR side),0.12352941176468167
+0,19,(((up OR m) OR j) OR mom),0.13333333333332806
+0,20,((i OR it) OR a),0.04675280824354388
+0,21,i,0.002149807648789319
+0,22,app,0.0008101254706521617
+0,23,((((would OR app) OR will) OR going) OR want),0.17570890018029542
+0,24,((((it OR do) OR phone) OR sure) OR make),0.552722558340524
+0,25,((((have OR am) OR has) OR premium) OR fine),0.5925012333497488
+0,26,((((can OR like) OR do) OR m) OR of),0.10859430424647762
+0,27,((((it OR but) OR good) OR if) OR have),0.2107440819371891
+0,28,((((` OR ') OR task) OR new) OR list),0.4809229377167775
+0,29,and,0.0009800800330914989
+0,30,((((very OR more) OR list) OR such) OR friends),0.41637751561412795
+0,31,((((the OR .) OR to) OR a) OR and),0.2185750183019722
+0,32,((((calendar OR track) OR song) OR cool) OR called),0.4769230769229852
+0,33,((the OR -) OR had),0.4306624132107256
+0,34,((((in OR im) OR into) OR end) OR play),0.8580786026200249
+0,35,((((. OR but) OR this) OR me) OR not),0.23896428736856623
+0,36,(((notification OR alarm) OR second) OR events),0.14104046242772936
+0,37,((((day OR days) OR life) OR apps) OR down),0.5862966175194635
+0,38,((((my OR very) OR your) OR u) OR night),0.3982300884955666
+0,39,((((a OR on) OR be) OR day) OR when),0.4139176498916396
+0,40,((((me OR no) OR too) OR only) OR well),0.4941466420209336
+0,41,((((all OR each) OR both) OR front) OR busy),0.6042183622828035
+0,42,((((out OR many) OR email) OR edit) OR j),0.1701323251417689
+0,43,((((soon OR late) OR else) OR anyone) OR yet),0.2646103896103466
+0,44,((((i OR ') OR it) OR !) OR this),0.2866327126993392
+0,45,just,0.0006746284984957607
+0,46,!,0.0011843525986879521
+0,47,for,0.00023682119644436657
+0,48,morning,0.5037593984958619
+0,49,i,0.08566433566433353
+0,50,"((((, OR a) OR it) OR .) OR you)",0.17997948443492956
+0,51,((((calendar OR think) OR today) OR than) OR since),0.3662721893490907
+0,52,((((app OR day) OR add) OR wait) OR start),0.6759443339959903
+0,53,(they OR we),0.03551864286976466
+0,54,"((, OR -) OR u)",0.2377999460771033
+0,55,(((app OR also) OR add) OR features),0.14073986246146383
+0,56,((((as OR back) OR want) OR way) OR here),0.20913926499032376
+0,57,((((good OR great) OR more) OR new) OR much),0.18447348193696803
+0,58,((((go OR like) OR be) OR love) OR an),0.12718707940780447
+0,59,!,0.0013281406204174106
+0,60,((((i OR !) OR `) OR () OR go),0.4520221049987412
+0,61,((((useful OR part) OR easier) OR changes) OR bit),0.3563218390803574
+0,62,((((see OR funny) OR yes) OR summer) OR says),0.17395529640425908
+0,63,((((as OR set) OR bit) OR if) OR yet),0.24046184738954615
+0,64,(which OR point),0.4259259259257682
+0,65,((due OR forest) OR fee),0.06549815498154377
+0,66,(' OR want),0.6763978228599369
+0,67,((((me OR do) OR want) OR think) OR im),0.16134494436381033
+0,68,((((screen OR post) OR error) OR type) OR switch),0.18101933216165533
+0,69,((((it OR app) OR :) OR at) OR now),0.30265327537100656
+0,70,((((2 OR off) OR 3) OR 4) OR 5),0.24712643678160032
+0,71,((((not OR my) OR task) OR need) OR wish),0.31513787281935257
+0,72,((((just OR but) OR from) OR because) OR right),0.2746508675412553
+0,73,.,0.0072005269408488915
+0,74,((by OR than) OR few),0.4485294117646399
+0,75,((((than OR thing) OR features) OR feature) OR look),0.5064935064934467
+0,76,having,0.00010648227267349378
+0,77,((((my OR option) OR its) OR options) OR your),0.5193825042881468
+0,78,((can OR new) OR da),0.1419959812458043
+0,79,just,0.006744251261918106
+0,80,olympic,0.0
+0,81,my,0.0004929292824607859
+0,82,them,3.992146730841278e-05
+0,83,.,0.007823588110838308
+0,84,still,0.013595021541407242
+0,85,(((. OR you) OR me) OR if),0.178478388005741
+0,86,((((would OR or) OR could) OR look) OR another),0.34234647112739036
+0,87,(((sure OR mean) OR realized) OR think),0.4869281045750043
+0,88,not,0.008997288488400743
+0,89,((((on OR day) OR today) OR calendar) OR about),0.29384911100431776
+0,90,(horse OR colour),0.04999999999996429
+0,91,i,0.0016936144772550178
+0,92,change,0.16666666666638888
+0,93,((((office OR head) OR dad) OR c) OR habit),0.18309859154925895
+0,94,(((i OR use) OR my) OR day),0.197478289913158
+0,95,((((like OR or) OR up) OR off) OR need),0.11601023017902695
+0,96,i,0.0020384445779129067
+0,97,((((have OR are) OR get) OR work) OR has),0.22147905098434853
+0,98,((($ OR multiple) OR showing) OR fail),0.13437057991511536
+0,99,((((good OR get) OR got) OR better) OR phone),0.24705368834569516
+0,100,((((that OR but) OR was) OR well) OR been),0.3912275537238625
+0,101,((((good OR go) OR tasks) OR going) OR task),0.22186300262678882
+0,102,((((this OR which) OR sorry) OR hear) OR turn),0.7563694267515321
+0,103,((((but OR tasks) OR then) OR tonight) OR let),0.4463102076888888
+0,104,is,0.0001043952757032312
+0,105,(((its OR different) OR post) OR bank),0.6513317191281716
+0,106,"((((, OR in) OR and) OR ') OR at)",0.09877034049924716
+0,107,((((! OR day) OR no) OR go) OR out),0.2755225566943727
+0,108,(((! OR :) OR `) OR u),0.23360129703438334
+0,109,(((my OR oh) OR because) OR sleep),0.33786954481462517
+0,110,"((((. OR ,) OR a) OR is) OR for)",0.538972607824213
+0,111,up,0.0014769003553791445
+0,112,((star OR ill) OR bar),0.2583732057415032
+0,113,((((with OR show) OR feel) OR 4) OR version),0.1753908905506339
+0,114,((((at OR only) OR see) OR every) OR watching),0.28698339127074984
+0,115,!,0.0012949737622853388
+0,116,"(((of OR ,) OR now) OR on)",0.11610241634470489
+0,117,((((now OR time) OR which) OR view) OR first),0.49059829059826265
+0,118,(((pro OR o) OR family) OR round),0.1788321167882994
+0,119,((((it OR is) OR to) OR you) OR that),0.15298953039517854
+0,120,((((good OR great) OR nice) OR awesome) OR w),0.1939273049645347
+0,121,day,0.0038515989340439667
+0,122,the,0.0007366630419163781
+0,123,((((as OR from) OR her) OR she) OR 4),0.15412593771311311
+0,124,not,0.014153077271062634
+0,125,((((! OR that) OR :) OR was) OR be),0.40496592015578964
+0,126,((((would OR may) OR 30) OR might) OR pop),0.3764302059496137
+0,127,((((day OR only) OR right) OR thanks) OR night),0.22547539993962495
+0,128,((((! OR ?) OR m) OR on) OR or),0.28818443804034294
+0,129,really,0.00034676109484999565
+0,130,pro,6.645860233243802e-05
+0,131,((premium OR update) OR best),0.03937423097205064
+0,132,.,0.008537965534294516
+0,133,((((it OR app) OR all) OR am) OR too),0.4889311421974672
+0,134,((((get OR more) OR got) OR very) OR great),0.13333333333333114
+0,135,.,0.009160076925145914
+0,136,((((premium OR daily) OR hard) OR paid) OR rather),0.19306930693067714
+0,137,((((work OR task) OR after) OR last) OR working),0.23424932975870527
+0,138,you,0.0037316236319467006
+0,139,((((have OR with) OR like) OR do) OR -),0.11106557377049131
+0,140,((((can OR got) OR won) OR features) OR yeah),0.572158365261777
+0,141,((((last OR set) OR list) OR best) OR page),0.16088180112569603
+0,142,((((like OR no) OR love) OR great) OR calendar),0.27761428291151113
+0,143,((((see OR used) OR done) OR hot) OR warm),0.5384615384614443
+0,144,my,0.0013882054279823022
+0,145,((((too OR very) OR has) OR because) OR im),0.12037776004256291
+0,146,((((again OR dinner) OR opening) OR routine) OR lunch),0.20041322314045446
+0,147,.,0.003730823877272814
+0,148,((((help OR helps) OR support) OR helped) OR rest),0.23560209424080683
+0,149,((((just OR not) OR all) OR good) OR if),0.20643594414086008
+0,150,i,0.006281791996077709
+0,151,(((better OR woke) OR bank) OR wake),0.245183887915894
+0,152,((((won OR lost) OR trees) OR forest) OR dead),0.32198952879572723
+0,153,"((((. OR i) OR the) OR to) OR ,)",0.19056536970781138
+0,154,.,0.005709388203866665
+0,155,((((nice OR please) OR free) OR happy) OR easy),0.35201511335010377
+0,156,((((know OR guess) OR ask) OR asking) OR asked),0.7299270072990037
+0,157,make,0.010720175920835476
+0,158,.,0.013958282949386213
+0,159,tasks,0.01585545722713835
+0,160,"((((. OR the) OR !) OR a) OR ,)",0.22542180000989523
+0,161,early,0.00021253683971888447
+0,162,((((to OR a) OR the) OR of) OR on),0.17485157919733987
+0,163,((((work OR think) OR wish) OR though) OR thought),0.6128423040603764
+0,164,skin,0.199999999996
+0,165,me,0.00042675170700682804
+0,166,was,0.0028061308214906906
+0,167,((((you OR -) OR u) OR calendar) OR going),0.16397849462365438
+0,168,((((us OR our) OR real) OR his) OR perfect),0.3902439024389292
+0,169,j,1.9272418038019658e-05
+0,170,((((app OR not) OR :) OR more) OR times),0.37437337076397886
+0,171,the,0.0019320784521926638
+0,172,to,0.011731732175300212
+0,173,(gonna OR someone),0.13953488372088388
+0,174,((((on OR back) OR please) OR thanks) OR premium),0.19218679838347122
+0,175,back,0.00014526164783910128
+0,176,((((just OR much) OR about) OR other) OR thing),0.31766381766380636
+0,177,((((good OR right) OR thanks) OR ok) OR gonna),0.2877967513535907
+0,178,"((((. OR ,) OR to) OR and) OR the)",0.32367524332265435
+0,179,to,0.1123128440013852
+0,180,((((where OR missed) OR health) OR support) OR numbers),0.29752066115694287
+0,181,((((how OR day) OR morning) OR wait) OR girl),0.14650661742074034
+0,182,((((update OR planner) OR weather) OR review) OR updated),0.4627831715208858
+0,183,(((or OR other) OR any) OR every),0.08306380476330369
+0,184,((((app OR good) OR time) OR day) OR work),0.1890037349083628
+0,185,((((: OR her) OR she) OR yeah) OR show),0.2529976019184551
+0,186,"((((. OR the) OR to) OR ,) OR !)",0.2900642503612157
+0,187,!,0.0014658144880715705
+0,188,i,0.003976894356027444
+0,189,((((i OR it) OR my) OR you) OR me),0.3649707339036454
+0,190,((((` OR like) OR will) OR tasks) OR version),0.25285310438697256
+0,191,((((tried OR trying) OR everyone) OR items) OR pay),0.30086956521733893
+0,192,((((! OR )) OR &) OR fun) OR every),0.16918474195960853
+0,193,`,0.000890744751629034
+0,194,((year OR organise) OR spring),0.15231788079460112
+0,195,((((can OR out) OR )) OR task) OR then),0.24366651312758536
+0,196,gonna,0.013529411764705485
+0,197,((((to OR me) OR go) OR today) OR work),0.1780231335436364
+0,198,.,0.003395410357348975
+0,199,((im OR u) OR cool),0.059270516717323425
+0,200,luck,0.5714285714258504
+0,201,((((show OR find) OR best) OR found) OR shows),0.4114021571648056
+0,202,((((super OR warm) OR money) OR green) OR cool),0.2046204620461371
+0,203,!,0.001381806904859881
+0,204,((((. OR it) OR a) OR and) OR the),0.3726632610796621
+0,205,",",0.00041528239202656084
+0,206,the,0.0021870517510919137
+0,207,`,0.0008966402465207915
+0,208,when,0.00017330000943129302
+0,209,m,0.0003110736425482557
+0,210,((((! OR me) OR not) OR you) OR up),0.20409601202498848
+0,211,((((day OR now) OR really) OR love) OR when),0.06470842332613364
+0,212,(((. OR my) OR ?) OR -),0.31488896978521796
+0,213,((((to OR my) OR for) OR that) OR a),0.27906976744185935
+0,214,((((just OR simple) OR create) OR rather) OR future),0.543119266054996
+0,215,((((me OR up) OR him) OR away) OR trip),0.6484926234765459
+0,216,((((is OR in) OR just) OR do) OR m),0.4430430699047304
+0,217,((((it OR like) OR night) OR its) OR miss),0.3136765270841277
+0,218,"((((. OR i) OR to) OR the) OR ,)",0.09358621527004873
+0,219,i,0.00025474925394861254
+0,220,(i OR the),0.023704773786854018
+0,221,!,0.00848361967772916
+0,222,one,0.00025520800332298424
+0,223,((((make OR life) OR done) OR set) OR problem),0.1848198970840401
+0,224,"((((. OR i) OR the) OR to) OR ,)",0.2339625222267813
+0,225,((((a OR ') OR can) OR `) OR one),0.28045842762245216
+0,226,((((no OR good) OR 3) OR version) OR fun),0.2046700023826494
+0,227,order,0.01571428571428459
+0,228,notification,0.008648648648648555
+0,229,((((my OR really) OR your) OR _) OR &),0.4235157609746582
+0,230,night,6.522326938286756e-05
+0,231,((((work OR go) OR going) OR premium) OR working),0.24146730462519167
+0,232,.,0.005595087963570584
+0,233,((((just OR happy) OR still) OR also) OR last),0.31254019292603497
+0,234,((' OR on) OR over),0.217071057192372
+0,235,((((good OR use) OR list) OR free) OR know),0.09717413157600696
+0,236,can,0.0023049696293592423
+0,237,u,0.00017364046786560409
+0,238,((((out OR from) OR only) OR by) OR after),0.5125136017409949
+0,239,.,0.017270080493235137
+0,240,((((with OR no) OR they) OR their) OR later),0.4048295454545311
+0,241,it,0.0011515515038850554
+0,242,((too OR got) OR other),0.04849466463414588
+0,243,((((a OR all) OR )) OR work) OR good),0.2923615977575292
+0,244,because,0.0013797296665263535
+0,245,((((calendar OR used) OR ur) OR user) OR hot),0.16532258064514796
+0,246,((((bad OR pretty) OR game) OR forest) OR design),0.16627906976742252
+0,247,((((every OR working) OR version) OR bed) OR change),0.21239470517447578
+0,248,"((((i OR a) OR my) OR ,) OR -)",0.33625601034385094
+0,249,((((think OR very) OR pretty) OR miss) OR quite),0.3434675431388378
+0,250,too,0.0012041667069667568
+0,251,((((oh OR saying) OR fee) OR cry) OR talking),0.3700787401574075
+0,252,((((well OR because) OR again) OR also) OR account),0.2244210526315695
+0,253,((((and OR in) OR with) OR on) OR or),0.33742782152230616
+0,254,((((who OR into) OR really) OR im) OR ad),0.17758271438216222
+0,255,yeah,2.95407733978205e-05
+0,256,((((u OR hey) OR e) OR side) OR r),0.7396593673964137
+0,257,"((((. OR i) OR the) OR to) OR ,)",0.2955804858898665
+0,258,((((. OR it) OR the) OR i) OR '),0.19142913697545488
+0,259,((((now OR ya) OR tree) OR fine) OR trees),0.2801302931595863
+0,260,always,0.0003641907865903716
+0,261,((((away OR worth) OR eat) OR eating) OR ate),0.2012072434607241
+0,262,(((good OR forget) OR options) OR forgot),0.15519013360738385
+0,263,((((oh OR reminder) OR free) OR easy) OR google),0.1053989678443806
+0,264,ur,0.0008456966123809963
+0,265,((((open OR hey) OR thank) OR almost) OR late),0.30232558139530485
